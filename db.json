@@ -1,0 +1,20 @@
+{
+  "reservaciones": [
+    {
+      "nombre": "Zavala",
+      "correo": "zavalaurieloficial@gmail.com",
+      "pelicula": "El Último Vuelo",
+      "horario": "19:45",
+      "boletos": 1,
+      "id": 1
+    },
+    {
+      "nombre": "Uriel",
+      "correo": "zavalaurieloficial@gmail.com",
+      "pelicula": "Risas en la Ciudad",
+      "horario": "19:45",
+      "boletos": 1,
+      "id": 2
+    }
+  ]
+}

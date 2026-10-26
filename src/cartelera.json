@@ -1,0 +1,8 @@
+[
+    { "id": 1, "titulo": "El Último Vuelo", "genero": "accion", "precio": 85, "duracion": 132, "imagen": "https://picsum.photos/seed/cine1/300/420" },
+    { "id": 2, "titulo": "Risas en la Ciudad", "genero": "comedia", "precio": 65, "duracion": 98, "imagen": "https://picsum.photos/seed/cine2/300/420" },
+    { "id": 3, "titulo": "La Casa Oscura", "genero": "terror", "precio": 95, "duracion": 110, "imagen": "https://picsum.photos/seed/cine3/300/420" },
+    { "id": 4, "titulo": "Galaxia Perdida", "genero": "accion", "precio": 120, "duracion": 145, "imagen": "https://picsum.photos/seed/cine4/300/420" },
+    { "id": 5, "titulo": "Mi Vecino Ruidoso", "genero": "comedia", "precio": 70, "duracion": 105, "imagen": "https://picsum.photos/seed/cine5/300/420" },
+    { "id": 6, "titulo": "Susurros", "genero": "terror", "precio": 78, "duracion": 92, "imagen": "https://picsum.photos/seed/cine6/300/420" }
+]
